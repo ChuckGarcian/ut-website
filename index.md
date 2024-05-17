@@ -33,7 +33,7 @@ Austin, TX 78712
 United States  
 
 ## Writings
--- [My Writings](writings/writings_dir.html): Writings covering different topics.
+-- [My Writings](Writings/dir.html): Writings covering different topics.
 <!-- - [A Remark on Emergent Complexity](writings/emergence.html): A brief exploration of the concept of emergent complexity.
 - [Matrix Multiplication Performance](writings/mmm.html): My internalization of high performance GEMM algorithms. -->
 

@@ -4,8 +4,8 @@ subtitle: "My musings about emergent complexity"
 date: "09-15-2023"
 author: "Chuck Garcia"
 author-url: "https://github.com/chuckgarcian"
-return-url: '..'
-return-text: '← Return home'
+return-url: 'dir.html'
+return-text: '← Return'
 ---
 
 For a great deal of time now, I have been fascinated with the notion of "systems" and systems theory. This is because systems theory establishes a framework that enables one to conceptualize and formulate a belief about a particular domain. For instance, in ecology, systems theory allows ecologists to formulate new beliefs about the ecosystem. In the domain of anthropology, systems theory is used to conceptualize government, legal, and economic systems.

@@ -4,8 +4,8 @@ subtitle: "Notes the fundamentals of the GOTO Algorithm"
 date: "01-30-2024"
 author: "Chuck Garcia"
 author-url: "https://github.com/chuckgarcian"
-return-url: '..'
-return-text: '← Return home'
+return-url: 'dir.html'
+return-text: '← Return'
 header-includes:
   - \usepackage{algorithm2e}
 ---
