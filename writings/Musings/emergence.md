@@ -1,5 +1,5 @@
 ---
-title: "A Remark on Emergent Complexity: A Perspective on the Natural World"
+title: "Remark on Emergent Complexity: A Perspective on the Natural World"
 subtitle: "My musings about emergent complexity"
 date: "09-15-2023"
 author: "Chuck Garcia"

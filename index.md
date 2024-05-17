@@ -32,9 +32,10 @@ The University of Texas
 Austin, TX 78712  
 United States  
 
-## Musings
-- [A Remark on Emergent Complexity](writings/emergence.html): A brief exploration of the concept of emergent complexity.
-- [Matrix Multiplication Performance](writings/mmm.html): My internalization of high performance GEMM algorithms.
+## Writings
+-- [My Writings](writings/writings_dir.html): Writings covering different topics.
+<!-- - [A Remark on Emergent Complexity](writings/emergence.html): A brief exploration of the concept of emergent complexity.
+- [Matrix Multiplication Performance](writings/mmm.html): My internalization of high performance GEMM algorithms. -->
 
 ## Projects
 - [Charm-v3](https://github.com/ChuckGarcian/cdof): A SystemVerilog implementation of an out-of-order microarchitecture for chArm-v3—a subset of the Arm-v8 ISA. 
