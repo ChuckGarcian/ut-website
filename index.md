@@ -5,10 +5,12 @@ description-meta: "A brief introduction about Charles Garcia, a computer science
 
 # Welcome
 
-I'm Charles "Chuck" Garcia, a passionate computer science student dedicated to learning about the field of computer architecture and high-performance computing. This website serves as a platform to share my projects, research, and thoughts on these exciting areas of study and others. [^footnote]
+I'm Charles "Chuck" Garcia, a passionate computer science student dedicated to learning about the field of computer architecture and high-performance computing. This website serves as a platform to share my projects, research, and thoughts on these exciting areas of study and others.
 
-[^footnote]:
-  {-} ![A picture of me](img-src/princeton-id-card-selfie.jpg)
+<figure style="float: right; margin-left: 20px; width: 30%;">
+    <img src="img-src/princeton-id-card-selfie.jpg" alt="Chuck Garcia" style="width: 100%; height: auto;" />
+    <figcaption>Chuck Garcia</figcaption>
+</figure>
 
 ## About Me
 
