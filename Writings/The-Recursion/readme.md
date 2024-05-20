@@ -9,4 +9,4 @@ Description-Long:
   how he got there. On his quest for answers, he discovers truths about himself, 
   reality, and the universe. The Recursion is a science-fiction short story that 
   covers topics such as free will, absurdism, and determinism. It is not yet 
-  finished
+  finished.
