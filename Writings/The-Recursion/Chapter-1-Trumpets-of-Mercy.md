@@ -7,8 +7,6 @@ return-url: 'dir.html'
 return-text: '← Return'
 ---
 
-# Self Notes
-
 # Main
 Trumpet-like sounds hummed and boomed, vibrating through the air and into John's body, jolting him awake. His eyes fluttered open in a panic, gasping for air, only to be met with a blinding white light. The cacophony and brightness gradually faded as he lay there, leaving silence and dimness in their wake.
 
@@ -21,3 +19,5 @@ The sharp, icy hands of anxiety crept their fingers over his chest, his thoughts
 The primal urge to survive took hold, and John turned over onto his belly into the prone position and simultaneously outstretched his arm to push himself up. As he rose from the floor, the chill of the air bit at his skin, sending shivers down his spine. He inhaled strongly in an attempt to calm himself and looked concernedly down at his body. He was wearing blue, long-cut jeans, bright white shoes, and a black shirt. He went to check his pockets but was greeted with a sharp, unexpected pain in his hand. Glancing down at his hands, John noticed a small, mysterious, horizontal-shaped wound on the tip of his finger. It seemed 'fresh' as it was red, tender, and not yet blistered.
 
 He continued to assess his surroundings. He looked around and noticed shelves of food: shelves with containers of frozen red meat, cut tomatoes, onions, and olives, as well as shelves with whole chickens and sauces. It became apparent to him that he was in some sort of freezer.
+
+
