@@ -14,7 +14,7 @@ I'm Charles "Chuck" Garcia, a passionate computer science student dedicated to l
 
 ## About Me
 
-I am a computer science junior at the University of Texas at Austin. I am currently living in New Jersey for the summer, participating in an undergraduate research program with [Dr. Margaret Martonosi](https://www.princeton.edu/~mrm/), a professor of Computer Architecture at Princeton University. 
+I am a computer science junior at the University of Texas at Austin. I am currently living in New Jersey for the summer, participating in an undergraduate research program with [Dr. Margaret Martonosi](https://www.princeton.edu/~mrm/), a professor of Computer Architecture at Princeton University with research interests in both classical and quantum computing.
 
 <!-- My research focuses on [FILL]. -->
 

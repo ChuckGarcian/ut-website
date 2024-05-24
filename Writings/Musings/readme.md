@@ -2,8 +2,8 @@ Title:
   Musings
 
 Description: 
-  Effectively shower thoughts.
+  Miscellaneous writings
 
 Description-Long:
-  Effectively shower thoughts.
+  Miscellaneous writings
   

@@ -8,6 +8,8 @@ return-url: 'dir.html'
 return-text: '← Return'
 ---
 
+[IBM](https://learning.quantum.ibm.com/course/basics-of-quantum-information/single-systems) defines a system as an abstract medium that stores information. 
+
 For a great deal of time now, I have been fascinated with the notion of "systems" and systems theory. This is because systems theory establishes a framework that enables one to conceptualize and formulate a belief about a particular domain. For instance, in ecology, systems theory allows ecologists to formulate new beliefs about the ecosystem. In the domain of anthropology, systems theory is used to conceptualize government, legal, and economic systems.
 
 Generally speaking, a system is defined by first defining objects that exist within the system and then defining primitive operations that modify the state of said objects. For example, in the domain of computer science, computing machines are defined as data (ones and zeros) and primitive instructions that manipulate the data. Complex behavior can be extrapolated by stringing together many different operations.
