@@ -7,6 +7,25 @@ return-url: 'dir.html'
 return-text: '← Return'
 ---
 
+# Chatper One
+what it i want to say?
+
+The following is a simplified pyramid that corresponds to Romeo and Juliet.
+
+Exposition: We meet the main character's John and Era
+
+Inciting incident: Romeo and Juliet meet at the Capulet’s dinner party.
+
+Rising Action: Romeo and Juliet pursue their forbidden romance. Romeo and Juliet meet again after Juliet learns she is to marry Paris.
+Romeo and Juliet makry in secret. Juliet must find a way to escape Verona with Romeo before she is betrothed to Paris.
+
+Climax: Romeo kills Paris, and then himself, when he wrongfully believes Juliet to be dead. When Juliet finds that both men have died, she also kills herself.
+
+Falling Action: The two warring families agree to settle their disputes.
+j
+
+Resolution: A brief exploration of the value and hardship of youth, love, and the cruelness of fate.
+
 # Chapters Outline
 1. Trumpets of Mercy
    - We meet our main character.

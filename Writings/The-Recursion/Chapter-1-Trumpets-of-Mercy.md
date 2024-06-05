@@ -21,3 +21,6 @@ The primal urge to survive took hold, and John turned over onto his belly into t
 He continued to assess his surroundings. He looked around and noticed shelves of food: shelves with containers of frozen red meat, cut tomatoes, onions, and olives, as well as shelves with whole chickens and sauces. It became apparent to him that he was in some sort of freezer.
 
 
+No 'John' responded,'
+
+
